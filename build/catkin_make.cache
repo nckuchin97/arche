@@ -1,0 +1,2 @@
+aruco_ros/aruco:aruco_ros/aruco_msgs:aruco_ros/aruco_ros:at1_control:at1_description:at1_gazebo:at1_mission:at1_navigation
+-DCATKIN_DEVEL_PREFIX=/home/ecoli/at/devel -DCMAKE_INSTALL_PREFIX=/home/ecoli/at/install -G Unix Makefiles
